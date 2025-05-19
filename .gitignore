@@ -8,7 +8,7 @@ env/
 __pycache__/
 *.py[cod]
 
-agent.py
+*.py
 # Ignore any other common unwanted files
 *.log
 *.sqlite3
