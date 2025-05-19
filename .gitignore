@@ -1,0 +1,6 @@
+./env/
+./1/
+./aggent_dist/
+./build/
+./agent.spec
+./agent.py
