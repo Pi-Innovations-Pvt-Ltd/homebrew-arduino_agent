@@ -1,7 +1,15 @@
-./env/
-./1/
-./aggent_dist/
-./build/
-agent.spec
+# Ignore Python virtual environment folder
+env/
+
+# Ignore macOS system file
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
 agent.py
-.DS_store
+# Ignore any other common unwanted files
+*.log
+*.sqlite3
+*.env
