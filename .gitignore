@@ -2,5 +2,6 @@
 ./1/
 ./aggent_dist/
 ./build/
-./agent.spec
-./agent.py
+agent.spec
+agent.py
+.DS_store
